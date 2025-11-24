@@ -19,8 +19,7 @@ This project leverages a pre-trained Deep Learning model to analyze images in re
 
 Watch the full 1-minute demonstration of how the classifier works:
 
-[![Watch the video](<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/08465739-22ad-4b2f-b7c6-c288d0cfc5e1" />
-)](https://youtu.be/izr9VzMsoh0)
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/izr9VzMsoh0)
 
 ## 📓 Research & Experimentation
 
