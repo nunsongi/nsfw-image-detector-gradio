@@ -15,6 +15,21 @@ This project leverages a pre-trained Deep Learning model to analyze images in re
 * **Confidence Score:** Provides a probability percentage for the prediction.
 * **User Interface:** Simple web interface built with Gradio.
 
+## 📺 Video Demo
+
+Watch the full 1-minute demonstration of how the classifier works:
+
+[![Watch the video](<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/08465739-22ad-4b2f-b7c6-c288d0cfc5e1" />
+)](https://youtu.be/izr9VzMsoh0)
+
+## 📓 Research & Experimentation
+
+Before building the app, I tested the model and logic using Google Colab. You can view the experimentation process here:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](nsfw_image_detector_gradio.ipynb)
+
+*Check the file `nsfw_image_detector_gradio.ipynb` in this repository to see the testing phase.*
+
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.x
